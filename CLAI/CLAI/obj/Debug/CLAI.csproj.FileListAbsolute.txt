@@ -1,0 +1,9 @@
+c:\users\corbi_000\documents\visual studio 2015\Projects\CLAI\CLAI\bin\Debug\CLAI.exe.config
+c:\users\corbi_000\documents\visual studio 2015\Projects\CLAI\CLAI\bin\Debug\CLAI.exe
+c:\users\corbi_000\documents\visual studio 2015\Projects\CLAI\CLAI\bin\Debug\CLAI.pdb
+c:\users\corbi_000\documents\visual studio 2015\Projects\CLAI\CLAI\obj\Debug\CLAI.csprojResolveAssemblyReference.cache
+c:\users\corbi_000\documents\visual studio 2015\Projects\CLAI\CLAI\obj\Debug\CLAI.Form1.resources
+c:\users\corbi_000\documents\visual studio 2015\Projects\CLAI\CLAI\obj\Debug\CLAI.Properties.Resources.resources
+c:\users\corbi_000\documents\visual studio 2015\Projects\CLAI\CLAI\obj\Debug\CLAI.csproj.GenerateResource.Cache
+c:\users\corbi_000\documents\visual studio 2015\Projects\CLAI\CLAI\obj\Debug\CLAI.exe
+c:\users\corbi_000\documents\visual studio 2015\Projects\CLAI\CLAI\obj\Debug\CLAI.pdb
