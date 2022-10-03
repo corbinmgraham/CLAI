@@ -1,0 +1,2 @@
+# CLAI
+Local Artificial Intelligence
